@@ -1,0 +1,3 @@
+git add -A
+git commit -m "What you did recently"
+git push saves master
